@@ -21,3 +21,5 @@ scatterplot(prestige ~ income, data=data)
 help(scatterplot)
 
 ?scatterplot
+
+'whaddup'
