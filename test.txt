@@ -101,3 +101,4 @@
 "longshoremen"	8.37	4753	0	26.1	9313	"bc"
 "typesetters"	10	6462	13.58	42.2	9511	"bc"
 "bookbinders"	8.55	3617	70.87	35.2	9517	"bc"
+"Power Ranger" 6.55 9100 65.21 10.2 9999 "bc"
